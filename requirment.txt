@@ -1,0 +1,13 @@
+tensorflow>=2.12
+numpy
+pandas
+opencv-python
+scikit-learn
+matplotlib
+seaborn
+streamlit
+pillow
+tensorflow-hub    # optional (if using TF-Hub models)
+efficientnet      # optional helper
+
+torch
